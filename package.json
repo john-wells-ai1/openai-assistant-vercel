@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "",
   "type": "module",
-  "main": "index.js",
+  "main": "/api/index.js",
   "scripts": {
     "start": "node index.js"
   },
